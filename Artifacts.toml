@@ -1,0 +1,46 @@
+[[RadeonProRender]]
+arch = "x86_64"
+git-tree-sha1 = "9b326b790c151df596b0051afab152f88896b4e1"
+os = "macos"
+
+    [[RadeonProRender.download]]
+    sha256 = "83c470cf35dab357fe15409761e20dd9c64f24254796073884a5a4bf5237074c"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.7+0/RadeonProRender.v2.2.7.x86_64-apple-darwin.tar.gz"
+[[RadeonProRender]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "75d43264d3cfba84a6904cca47c2e2f0f4736277"
+libc = "glibc"
+os = "linux"
+
+    [[RadeonProRender.download]]
+    sha256 = "635a68ce16a618655d979c26581f1c9d9282d79dbe8e4067cfbcb8b70abae7bb"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.7+0/RadeonProRender.v2.2.7.x86_64-linux-gnu-cxx03.tar.gz"
+[[RadeonProRender]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2110069f3f2dfb6ff013bbf4d8e07541cddef968"
+libc = "glibc"
+os = "linux"
+
+    [[RadeonProRender.download]]
+    sha256 = "d674768de0033b8a61c724e926c440d5f1fa422d9e2da8701a3263e96b292db1"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.7+0/RadeonProRender.v2.2.7.x86_64-linux-gnu-cxx11.tar.gz"
+[[RadeonProRender]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b1845f3b69a5d2460ef7c3dfbc0a66293962b008"
+os = "windows"
+
+    [[RadeonProRender.download]]
+    sha256 = "31ac170b9457dba7bf17c0b0072c6fc94fe0a5670cd6f1a1b9cf0d2039bf5656"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.7+0/RadeonProRender.v2.2.7.x86_64-w64-mingw32-cxx03.tar.gz"
+[[RadeonProRender]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e93747ea342307f327ff54e516b514f7248b83dc"
+os = "windows"
+
+    [[RadeonProRender.download]]
+    sha256 = "f6ca50752d91f76f4c9e17daa7ea0562368ef58d1466ac0e38acc3a80a2da64f"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.7+0/RadeonProRender.v2.2.7.x86_64-w64-mingw32-cxx11.tar.gz"
