@@ -1,54 +1,54 @@
 [[RadeonProRender]]
 arch = "aarch64"
-git-tree-sha1 = "b92cab50f632b77cac59e3863c9f522f7fe523eb"
+git-tree-sha1 = "6e1961e72babdab04b188cc5603fdb874425fa58"
 os = "macos"
 
     [[RadeonProRender.download]]
-    sha256 = "d79f6ca88b9aef2ea66c03cc62c7f0e63fae5b41b1189a10a345f88acdaadc59"
-    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.12+0/RadeonProRender.v2.2.12.aarch64-apple-darwin.tar.gz"
+    sha256 = "56610899193d3f8c6b1d3dee3591befa403cd15895936d14af8c1f784612abf2"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.15+0/RadeonProRender.v2.2.15.aarch64-apple-darwin.tar.gz"
 [[RadeonProRender]]
 arch = "x86_64"
-git-tree-sha1 = "b53c5454a389ef33807fc830c3d6bac392f65ce0"
+git-tree-sha1 = "479497db6caf2d780d7f8ee28ec80b371b999e55"
 os = "macos"
 
     [[RadeonProRender.download]]
-    sha256 = "c7911c5f8e9cfe9044812225f0fd49609e76ec35149ee069be3a1374c15a10a3"
-    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.12+0/RadeonProRender.v2.2.12.x86_64-apple-darwin.tar.gz"
+    sha256 = "b29e052dfc605b04400793da7c3520f5ea68d000d8f5057a63899663f9163882"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.15+0/RadeonProRender.v2.2.15.x86_64-apple-darwin.tar.gz"
 [[RadeonProRender]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8deae97c7195f3113e97b1b107284ec3a59d581c"
+git-tree-sha1 = "0c9988348d2fc5f1a624fb1cd7ba84e3d1f3f868"
 libc = "glibc"
 os = "linux"
 
     [[RadeonProRender.download]]
-    sha256 = "9127a7c5d6be3ea236d4025c73cd68e522fbe51fcf0e0e2608fc5388b435735a"
-    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.12+0/RadeonProRender.v2.2.12.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "e7c4b6e369bf63894622b3a380402ccbb4019be2e7bd334f7af9b32e39d79b00"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.15+0/RadeonProRender.v2.2.15.x86_64-linux-gnu-cxx03.tar.gz"
 [[RadeonProRender]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "edd1188321f607477f0cc2edb2e850abd432e8cb"
+git-tree-sha1 = "7636c844da7724e9add4d74f01712056c6299896"
 libc = "glibc"
 os = "linux"
 
     [[RadeonProRender.download]]
-    sha256 = "e457681a2313c639574056ef93767818d553c8cd44340741de8bbd2ace52e5c7"
-    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.12+0/RadeonProRender.v2.2.12.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "5b21d979d7a291862556f71a504d1dfe3d6bba51dbe4b9faebf9743aa95752b1"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.15+0/RadeonProRender.v2.2.15.x86_64-linux-gnu-cxx11.tar.gz"
 [[RadeonProRender]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "edae88f2c24bb4feb62a43cad36d8abf01f3b27e"
+git-tree-sha1 = "e7a754a1b88089c778a47994df8cbeabf310161f"
 os = "windows"
 
     [[RadeonProRender.download]]
-    sha256 = "a34d35fc1e13190a41d4ff04e95e3f514091cb66dde6d43c28b60ca4aad31d34"
-    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.12+0/RadeonProRender.v2.2.12.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "aed06146948e0eb882913ffe177a95cb9b3fffaf133ca3ea805c9a612782fdef"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.15+0/RadeonProRender.v2.2.15.x86_64-w64-mingw32-cxx03.tar.gz"
 [[RadeonProRender]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "432a70b747c236f91ddde41d4a8f7e159c32e67f"
+git-tree-sha1 = "a86cc8fee92e71f84ba1b6905c0acd204594880a"
 os = "windows"
 
     [[RadeonProRender.download]]
-    sha256 = "aa5837f07a57170b0212ca41d7cfedfb43e0f337d742c8725e3c8a586e047472"
-    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.12+0/RadeonProRender.v2.2.12.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "eada9aac190611d582adaacbbc63f3ed8459ac23cf94319b3d9a218c49f5967b"
+    url = "https://github.com/JuliaBinaryWrappers/RadeonProRender_jll.jl/releases/download/RadeonProRender-v2.2.15+0/RadeonProRender.v2.2.15.x86_64-w64-mingw32-cxx11.tar.gz"
